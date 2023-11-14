@@ -13,5 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "MovieFinder"
+rootProject.name = "MovieFinder2"
 include(":app")
+ 
