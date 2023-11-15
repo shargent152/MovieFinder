@@ -16,10 +16,11 @@
         />
     <androidx.recyclerview.widget.RecyclerView
         android:layout_width="wrap_content"
-        android:layout_height="match_parent"
-        android:layout_below="@id/holder"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
         android:id="@+id/recycle"
         tools:listitem="@layout/fragment_selected_movie"
+        android:layout_below="@id/holder"
         />
 
 </RelativeLayout>

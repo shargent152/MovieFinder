@@ -7,4 +7,5 @@
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="go_back">go back</string>
     <string name="bip">bip</string>
+    <string name="share">share</string>
 </resources>
