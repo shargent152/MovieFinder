@@ -8,8 +8,6 @@ The following functinality is completed
 * The card view pulls its data from the omdb api and uses sql to sort through the data
 ## Video Walkthrough
 ![ezgif-1-5874d89da1](https://github.com/shargent152/MovieFinder/assets/125781283/485dca93-b895-4cc4-825c-06b724602cdf)
-## Notes
-* Trying to sort through all of the data orginally was diffcult because it orginally would not give me a list but just a singular movie
 ## License
 
     Copyright 2023 Trevor Peevers
