@@ -1,4 +1,5 @@
 # Movie Finder
+An app where you can search for any movie and get poster, ratings, and reviews
 ## Functionality
 The following functinality is completed
 * gear icon takes you to an email app and creates a email to send to me
